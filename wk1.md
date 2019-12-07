@@ -57,6 +57,8 @@ source: https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/tools/build_chain.s
     *   generate_server_scripts
 
 
+![輸出的訊息](https://imgur.com/a/PguL0OP.png)
+
 ![生成的目錄](https://i.imgur.com/TDXUvgx.png)
 
 
