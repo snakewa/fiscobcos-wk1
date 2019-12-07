@@ -16,7 +16,7 @@ source: https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/tools/build_chain.s
     *   parse_params()
     *   print_result()
     *   check_env() 
-    *   生成證書類 gen_*_cert_*() , gen_*_cert_*_gm() 國密版
+    *   生成證書類 gen_ *_cert_ *() , gen_ * _cert_ * _gm() 國密版
     *   生成script或配置檔類 generate_*()
 *   Main line 1000 ~ 1200
 
