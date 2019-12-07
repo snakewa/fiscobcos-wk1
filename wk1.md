@@ -55,14 +55,6 @@ Ficos bcos環境生成器!
     *   generate_server_scripts
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Fiscos-Bcos0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Fiscos-Bcos0.png "image_tooltip")
-
-
-
 ## 其它的bash function
 
 
