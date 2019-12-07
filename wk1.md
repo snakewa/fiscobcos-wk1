@@ -51,10 +51,16 @@ source: https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/tools/build_chain.s
         *   gen_cert()
 *   生成配置檔案
     *   generate_config_ini
+        *   node%/config.ini
     *   generate_group_genesis
+        *   node%/conf/group.#.genesis
     *   generate_group_ini
+        *   node%/conf/group.#.ini
     *   generate_node_scripts
+        *   node%/*.sh
     *   generate_server_scripts
+        *   start_all.sh
+        *   stop_all.sh
 
 
 ![輸出的訊息](https://i.imgur.com/KJYkpgo.png)
