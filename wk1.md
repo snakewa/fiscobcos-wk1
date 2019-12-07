@@ -25,7 +25,7 @@ Ficos bcos環境生成器!
 
 *   例子：build_chain.sh -l "127.0.0.1:4" -p 30300,20200,8545
 *   必須要有有網路
-*   某些不台支持Docker mode
+*   某些平台支持Docker mode
 *   下載fiscos的execute binary
     *   Download: download_bin()
     *   Verify: check_bin()
