@@ -51,7 +51,6 @@ source: https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/tools/build_chain.s
         *   gen_cert()
             *  gen_cert_secp256k1()
                  *  node%/conf/node.crt ?
-                 *  node%/conf/ca.crt ?
             *   node%/conf/node.key
             *   node%/conf/node.nodeid <--- 節點的ID
 *   生成配置檔案
