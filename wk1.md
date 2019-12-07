@@ -33,10 +33,11 @@ source: https://github.com/FISCO-BCOS/FISCO-BCOS/blob/master/tools/build_chain.s
     *   Verify: check_bin()
 *   生成証書 generate_cert_conf "cert.cnf"
 *   use_ip_param
-    *   
 *   生成CA証書 
     *   gen_chain_cert()
+        * cert/ca.key, cert/ca.crt
     *   gen_agency_cert()
+        * cert/agency/agency.key, cert/agency/agency.crt
     *   Guomi_mode 国密版 [https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/manual/guomi_crypto.html](https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/manual/guomi_crypto.html)
         *   Check_and_install_tassl
             *   Tassl就是国密版 Openssl [http://www.tass.com.cn/portal/research/viewpoint_view-36.html](http://www.tass.com.cn/portal/research/viewpoint_view-36.html)
